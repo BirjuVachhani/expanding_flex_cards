@@ -2,7 +2,10 @@
 
 A Flutter project that expands a card when clicked and collapses others.
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/birjuvachhani/pen/qBMqxQN)
+
 <img src="demo.gif" width="100%"/>
+
 ## License
 
 ```
