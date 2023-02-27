@@ -2,9 +2,11 @@
 
 A Flutter project that expands a card when clicked and collapses others.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/birjuvachhani/pen/qBMqxQN)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/birjuvachhani/pen/qBMqxQN) [![Codemagic build status](https://api.codemagic.io/apps/63fce7cfdeb722e40b02a6c3/63fce7cfdeb722e40b02a6c2/status_badge.svg)](https://codemagic.io/apps/63fce7cfdeb722e40b02a6c3/63fce7cfdeb722e40b02a6c2/latest_build)
 
 <img src="demo.gif" width="100%"/>
+
+### Live Demo: [expanding-flex-cards.codemagic.app](https://expanding-flex-cards.codemagic.app)
 
 ## License
 
