@@ -97,7 +97,7 @@ class _MyHomePageState extends State<MyHomePage> {
               onPressed: () {
                 // launch a new page with url on web
                 launchUrlString(
-                    'https://github.com/birjuvachhani/expanding-flex-cards');
+                    'https://github.com/BirjuVachhani/expanding_flex_cards');
               },
               child: const Text('View on Github'),
             ),
