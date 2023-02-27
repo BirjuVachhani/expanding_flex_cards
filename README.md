@@ -2,8 +2,7 @@
 
 A Flutter project that expands a card when clicked and collapses others.
 
-![demo](demo.gif)
-
+<img src="demo.gif" width="100%"/>
 ## License
 
 ```
